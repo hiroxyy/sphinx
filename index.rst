@@ -12,6 +12,7 @@ Welcome to Sphinx-practice's documentation!
 
    expert_python
    art_of_community
+   markup_practice
 
 Indices and tables
 ==================
